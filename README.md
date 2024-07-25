@@ -2,7 +2,7 @@
 
 More details to be added soon, including:
   - Corporate sustainability reports used
-  - More in-depth descriptions of methodss used
+  - More in-depth descriptions of methods used
 
 I am currently in the process of editing a paper about the experiment. More information to follow.
 
